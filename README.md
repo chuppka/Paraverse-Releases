@@ -2,7 +2,8 @@
 
 <p align="center">
   <strong><a href="https://github.com/chuppka/Paraverse-Releases/releases/download/v1.0/Paraverse-1.0.exe">Download for Windows</a></strong> ·
-  <a href="https://github.com/chuppka/Paraverse-Releases/releases/tag/v1.0">v1.0 release notes</a>
+  <a href="https://github.com/chuppka/Paraverse-Releases/releases/tag/v1.0">v1.0 release notes</a> ·
+  <a href="https://discord.gg/xJDxqVY6hM">Join Discord</a>
 </p>
 
 Paraverse turns a save from one Paradox game into a starting mod for the next. Carry a campaign from **Crusader Kings III → Europa Universalis V → Victoria 3 → Hearts of Iron IV**, or go straight from CK3 to Victoria 3.
