@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 320" role="img" aria-labelledby="title desc">
+  <title id="title">Paraverse</title>
+  <desc id="desc">Campaign converter for Crusader Kings III, Europa Universalis V, Victoria 3 and Hearts of Iron IV.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#111820"/>
+      <stop offset="1" stop-color="#172637"/>
+    </linearGradient>
+    <clipPath id="panel">
+      <rect width="1080" height="320" rx="24"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="1080" height="320" fill="url(#background)"/>
+    <g fill="none" stroke="#54769b" stroke-width="1.3" opacity=".25">
+      <path d="M557-40c17 80 91 127 182 135 104 9 140-45 203-44 62 1 103 32 166 32"/>
+      <path d="M576-41c16 70 84 108 171 118 96 11 135-46 195-43 61 3 105 29 166 27"/>
+      <path d="M600-44c10 60 69 96 153 103 93 8 127-44 188-41 64 4 111 29 167 25"/>
+      <path d="M620-43c17 54 71 79 143 85 78 6 115-39 179-39 62 1 108 23 166 21"/>
+      <path d="M537-34c15 90 101 140 194 149 105 10 145-46 209-45 64 1 108 36 168 36"/>
+      <path d="M516-35c14 103 107 161 207 169 106 8 149-44 214-44 72 0 109 36 171 37"/>
+      <path d="M498-32c15 116 111 177 218 185 104 8 155-43 218-43 76 0 111 39 174 39"/>
+      <path d="M476-32c18 126 123 198 233 204 104 6 159-42 223-43 80-1 113 42 176 41"/>
+      <path d="M454-30c20 137 132 217 247 221 112 4 165-42 228-42 79 0 117 43 179 44"/>
+      <path d="M437-29c14 148 134 237 260 239 111 2 167-42 231-42 77 0 117 46 180 48"/>
+    </g>
+    <path d="M56 48h34" stroke="#8ab9f0" stroke-width="3" stroke-linecap="round"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="101" y="54" fill="#9db8d2" font-size="15" font-weight="600" letter-spacing="2.5">CAMPAIGN CONVERTER</text>
+      <text x="52" y="135" fill="#f0f6ff" font-size="76" font-weight="700" letter-spacing="-.6">Paraverse</text>
+      <text x="57" y="181" fill="#b7c8da" font-size="28">Carry your world into the next game.</text>
+      <g fill="#172333" stroke="#31465d">
+        <rect x="56" y="223" width="210" height="56" rx="10"/>
+        <rect x="309" y="223" width="210" height="56" rx="10"/>
+        <rect x="562" y="223" width="210" height="56" rx="10"/>
+        <rect x="815" y="223" width="210" height="56" rx="10"/>
+      </g>
+      <g fill="#cfe5ff" font-size="24" font-weight="600" text-anchor="middle">
+        <text x="161" y="259">CK3</text>
+        <text x="414" y="259">EU5</text>
+        <text x="667" y="259">Victoria 3</text>
+        <text x="920" y="259">HOI4</text>
+      </g>
+    </g>
+    <g fill="none" stroke="#7ca9df" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M280 251h16m-5-5 5 5-5 5"/>
+      <path d="M533 251h16m-5-5 5 5-5 5"/>
+      <path d="M786 251h16m-5-5 5 5-5 5"/>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1079" height="319" rx="24" fill="none" stroke="#33485e"/>
+</svg>
